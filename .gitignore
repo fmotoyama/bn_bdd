@@ -1,0 +1,7 @@
+__pycache__
+
+host/checkpoints/
+host/検証/
+*.mp4
+
+タイトル無し*
