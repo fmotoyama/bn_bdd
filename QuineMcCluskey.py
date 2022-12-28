@@ -14,7 +14,7 @@ def get_unique_list(seq):
     seen = []
     return [x for x in seq if x not in seen and not seen.append(x)]
 
-#!!!!!!!!!!!!!!!!!!!!!!マイナスをつけて否定を表現するので変数名に「0」があってはならない
+#!!!!!!!!!!マイナスをつけて否定を表現するので変数名に「0」があってはならない!!!!!!!!!!
 def QM1(f):
     """
     f           :簡単化する対象である、積和標準形を表す2次元list
